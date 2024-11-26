@@ -1,9 +1,14 @@
 Commit A1
 Commit A2
 Commit A3
+ HEAD
 Commit B1
 Commit B2
 Commit B3
+ HEAD
 Commit C1
 Commit C2
 Commit C3
+
+Bugfix
+
